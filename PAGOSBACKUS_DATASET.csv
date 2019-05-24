@@ -1,0 +1,328 @@
+CODIGO,NOMBRE_PROVEEDOR,TIPO_SERVICIO,IMPORTE_SOLES,FECHA_PAGO,MES
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,294.35 ,2/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,1070.79 ,3/01/2019,Enero
+440302,Repsol Comercial SAC      ,Servicios Publicos,75829.29 ,3/01/2019,Enero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,3262.20 ,3/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,119.00 ,3/01/2019,Enero
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,10692.40 ,3/01/2019,Enero
+441127,ELECTRO DUNAS       ,Servicios Publicos,6064.79 ,3/01/2019,Enero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,3793.30 ,3/01/2019,Enero
+441333,ELECTROCENTRO        ,Servicios Publicos,6101.90 ,3/01/2019,Enero
+441391,HIDRANDINA        ,Servicios Publicos,19053.80 ,3/01/2019,Enero
+441444,SEDACHIMBOTE S.A.       ,Servicios Publicos,4924.30 ,3/01/2019,Enero
+460378,EMAPA HUANCAVELICA S.A.C.,Servicios Publicos,156.80 ,3/01/2019,Enero
+484338,KALLPA GENERACION S.A.,Servicios Publicos,2879699.25 ,3/01/2019,Enero
+T13868,COESTI S.A.       ,Servicios Publicos,5307.55 ,3/01/2019,Enero
+439141,RANSA COMERCIAL S.A.      ,Operador Logistico,402023.79 ,8/01/2019,Enero
+440302,Repsol Comercial SAC      ,Servicios Publicos,11151.00 ,8/01/2019,Enero
+440302,Repsol Comercial SAC      ,Servicios Publicos,11151.00 ,8/01/2019,Enero
+440925,BOLSA DE VALORES DE LIMA S.A.,Gobierno,28041.58 ,8/01/2019,Enero
+440925,BOLSA DE VALORES DE LIMA S.A.,Gobierno,28041.58 ,8/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,185042.20 ,8/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,185042.20 ,8/01/2019,Enero
+441621,sind obreros cerveceros,People,111347.00 ,8/01/2019,Enero
+464191,AUSA ADUANAS S.A.,Comex,660000.00 ,8/01/2019,Enero
+903090,SINTRAEBACKUS,People,8290.00 ,8/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,1223.76 ,10/01/2019,Enero
+440302,Repsol Comercial SAC      ,Servicios Publicos,54015.44 ,10/01/2019,Enero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,666.70 ,10/01/2019,Enero
+T13868,COESTI S.A.       ,Servicios Publicos,49461.37 ,10/01/2019,Enero
+481929,Herza corporate & circuits,People,4994.00 ,14/01/2019,Enero
+483421,Cooperativa Finantel       ,People,1155077.35 ,14/01/2019,Enero
+902496,cooperativa de servicios multiples,People,100136.44 ,14/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,1631.68 ,15/01/2019,Enero
+439189,SEDAPAL        ,Servicios Publicos,76.99 ,15/01/2019,Enero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,3994.20 ,15/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,6837.80 ,15/01/2019,Enero
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,2211.90 ,15/01/2019,Enero
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,538.85 ,15/01/2019,Enero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3973.00 ,15/01/2019,Enero
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,1551.85 ,15/01/2019,Enero
+441275,SEDAM HUANCAYO S.A.      ,Servicios Publicos,34.40 ,15/01/2019,Enero
+441333,ELECTROCENTRO        ,Servicios Publicos,11084.50 ,15/01/2019,Enero
+441384,SEDALIB S.A.       ,Servicios Publicos,2676.70 ,15/01/2019,Enero
+441445,eps Seda Cusco      ,Servicios Publicos,1608.70 ,15/01/2019,Enero
+445399,ENT.PREST.SERVICIOS DE SANEAMIENTO      ,Servicios Publicos,603.30 ,15/01/2019,Enero
+445715,DIRECTV PERU SRL,Servicios Publicos,2590.67 ,15/01/2019,Enero
+460378,EMAPA HUANCAVELICA S.A.C.,Servicios Publicos,169.10 ,15/01/2019,Enero
+462721,E.P.S. ILO S.A.      ,Servicios Publicos,145.70 ,15/01/2019,Enero
+483421,Cooperativa Finantel       ,People,1155077.35 ,15/01/2019,Enero
+T13868,COESTI S.A.       ,Servicios Publicos,29015.05 ,15/01/2019,Enero
+439189,SEDAPAL        ,Servicios Publicos,7134.81 ,17/01/2019,Enero
+439828,ENEL DISTRIBUCION PERU S.A.A     ,Servicios Publicos,10768.50 ,17/01/2019,Enero
+439918,Quimpac SA       ,Suministros para produccion,74326.49 ,17/01/2019,Enero
+439918,Quimpac SA       ,Suministros para produccion,637236.63 ,17/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,39347.00 ,17/01/2019,Enero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3451.00 ,17/01/2019,Enero
+441127,ELECTRO DUNAS       ,Servicios Publicos,2913.00 ,17/01/2019,Enero
+441562,MUNICIP PROVINCIAL DE SAN ROMAN JULIACA   ,Impuestos,1508.65 ,17/01/2019,Enero
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,176224.58 ,17/01/2019,Enero
+441724,Poma de Romero      ,Alquiler,5335.00 ,17/01/2019,Enero
+442235,PERURAIL        ,Transportadora ,26265.28 ,17/01/2019,Enero
+442538,ELECTRO PUNO S.A.A.      ,Servicios Publicos,5809.80 ,17/01/2019,Enero
+446287,BRITISH AMERICAN HOSPITAL S.A.,Servicios Publicos,125450.95 ,17/01/2019,Enero
+448092,EMAPA CANETE SA      ,Servicios Publicos,344.30 ,17/01/2019,Enero
+455787,RIMAC EPS       ,People,5470.68 ,17/01/2019,Enero
+461192,Montes Salinas Luis Gualberto     ,Alquiler,16000.00 ,17/01/2019,Enero
+481455,ONCOSALUD SAC,People,387956.00 ,17/01/2019,Enero
+482744,RELSA        ,Alquiler,388814.88 ,17/01/2019,Enero
+441391,HIDRANDINA        ,Servicios Publicos,5209.70 ,18/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,22643.20 ,21/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,8191.20 ,21/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,25489.70 ,21/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,815.84 ,22/01/2019,Enero
+439828,ENEL DISTRIBUCION PERU S.A.A     ,Servicios Publicos,20642.50 ,22/01/2019,Enero
+440302,Repsol Comercial SAC      ,Servicios Publicos,225989.76 ,22/01/2019,Enero
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,10956.50 ,22/01/2019,Enero
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,500.60 ,22/01/2019,Enero
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,42804.30 ,22/01/2019,Enero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,2433.95 ,22/01/2019,Enero
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,3233.60 ,22/01/2019,Enero
+441275,SEDAM HUANCAYO S.A.      ,Servicios Publicos,670.30 ,22/01/2019,Enero
+441391,HIDRANDINA        ,Servicios Publicos,5899.60 ,22/01/2019,Enero
+441655,EMAPA-HUARAL S.A.,Servicios Publicos,236.20 ,22/01/2019,Enero
+462721,E.P.S. ILO S.A.      ,Servicios Publicos,145.80 ,22/01/2019,Enero
+439918,Quimpac SA       ,Suministros para produccion,15388.38 ,24/01/2019,Enero
+439918,Quimpac SA       ,Suministros para produccion,352152.77 ,24/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,35132.40 ,24/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,4214.60 ,24/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,39129.80 ,24/01/2019,Enero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,1175.80 ,24/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,158.30 ,24/01/2019,Enero
+441357,MUNICIPALIDAD DISTRITAL DEL RIMAC     ,Impuestos,7954.50 ,24/01/2019,Enero
+441655,EMAPA-HUARAL S.A.,Servicios Publicos,234.00 ,24/01/2019,Enero
+443773,SERVICIO DE ADMINISTRACION TRIBUTARIA DE CHICLAYO - SATCH ,Impuestos,264.35 ,24/01/2019,Enero
+464191,AUSA ADUANAS S.A.,Comex,2159.40 ,24/01/2019,Enero
+484338,KALLPA GENERACION S.A.,Servicios Publicos,8573.75 ,24/01/2019,Enero
+484338,KALLPA GENERACION S.A.,Servicios Publicos,2871188.48 ,25/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,1070.79 ,29/01/2019,Enero
+439921,LUZ DEL SUR      ,Servicios Publicos,4502.20 ,29/01/2019,Enero
+440954,Sedapar        ,Servicios Publicos,174888.90 ,29/01/2019,Enero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3578.50 ,29/01/2019,Enero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,40.90 ,29/01/2019,Enero
+441391,HIDRANDINA        ,Servicios Publicos,9943.70 ,29/01/2019,Enero
+441391,HIDRANDINA        ,Servicios Publicos,4148.40 ,29/01/2019,Enero
+441445,eps Seda Cusco      ,Servicios Publicos,386315.00 ,29/01/2019,Enero
+445227,EMPRESA MUNICIPAL AGUA POTABLE Y AL   ,Servicios Publicos,259.20 ,29/01/2019,Enero
+439918,Quimpac SA       ,Suministros para produccion,56778.06 ,31/01/2019,Enero
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,11114.40 ,31/01/2019,Enero
+441353,Superintendencia del Mercado de Valores    ,Valores ,4.27 ,31/01/2019,Enero
+441353,Superintendencia del Mercado de Valores    ,Valores ,47258.29 ,31/01/2019,Enero
+458643,Tupay Quispe Alejandra      ,Alquiler,6000.00 ,31/01/2019,Enero
+461192,Montes Salinas Luis Gualberto     ,Alquiler,54000.00 ,31/01/2019,Enero
+467013,NEOGAS PERU SOCIEDAD ANONIMA     ,Servicios Publicos,248417.06 ,31/01/2019,Enero
+481455,ONCOSALUD SAC,People,8822.78 ,31/01/2019,Enero
+482293,Nouchi Zea       ,Alquiler,9500.00 ,31/01/2019,Enero
+482744,RELSA        ,Alquiler,34625.72 ,31/01/2019,Enero
+439122,LIMA GAS S.A.      ,Servicios Publicos,356.93 ,5/02/2019,Febrero
+439189,SEDAPAL        ,Servicios Publicos,63521.60 ,5/02/2019,Febrero
+439828,ENEL DISTRIBUCION PERU S.A.A     ,Servicios Publicos,16141.50 ,5/02/2019,Febrero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3140.00 ,5/02/2019,Febrero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,3065.15 ,5/02/2019,Febrero
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,1631.35 ,5/02/2019,Febrero
+441391,HIDRANDINA        ,Servicios Publicos,5341.10 ,5/02/2019,Febrero
+484338,KALLPA GENERACION S.A.,Servicios Publicos,2939319.09 ,5/02/2019,Febrero
+T13868,COESTI S.A.       ,Servicios Publicos,80550.26 ,5/02/2019,Febrero
+441621,sind obreros cerveceros,People,77490.00 ,6/02/2019,Febrero
+483421,Cooperativa Finantel       ,People,40210.38 ,6/02/2019,Febrero
+902496,cooperativa de servicios multiples,People,131728.75 ,6/02/2019,Febrero
+903090,SINTRAEBACKUS,People,10000.00 ,6/02/2019,Febrero
+440837,RIMAC SEGUROS Y REASEGUROS  - VALIDARLO,Seguros,729059.19 ,7/02/2019,Febrero
+464191,AUSA ADUANAS S.A.,Comex,60000.00 ,7/02/2019,Febrero
+483421,Cooperativa Finantel       ,People,46751.67 ,11/02/2019,Febrero
+902496,cooperativa de servicios multiples,People,33604.70 ,11/02/2019,Febrero
+440302,Repsol Comercial SAC      ,Servicios Publicos,379234.17 ,12/02/2019,Febrero
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,3756.00 ,12/02/2019,Febrero
+441127,ELECTRO DUNAS       ,Servicios Publicos,1834.00 ,12/02/2019,Febrero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,2113.05 ,12/02/2019,Febrero
+441333,ELECTROCENTRO        ,Servicios Publicos,622.60 ,12/02/2019,Febrero
+441384,SEDALIB S.A.       ,Servicios Publicos,3073.90 ,12/02/2019,Febrero
+441444,SEDACHIMBOTE S.A.       ,Servicios Publicos,3029.50 ,12/02/2019,Febrero
+441445,eps Seda Cusco      ,Servicios Publicos,1749.20 ,12/02/2019,Febrero
+445715,DIRECTV PERU SRL,Servicios Publicos,1314.51 ,12/02/2019,Febrero
+T13868,COESTI S.A.       ,Servicios Publicos,299617.56 ,12/02/2019,Febrero
+439141,RANSA COMERCIAL S.A.      ,Operador Logistico,843895.79 ,14/02/2019,Febrero
+439189,SEDAPAL        ,Servicios Publicos,9649.79 ,14/02/2019,Febrero
+439189,SEDAPAL        ,Servicios Publicos,4809.60 ,14/02/2019,Febrero
+439575,SENATI        ,Impuestos,1699.20 ,14/02/2019,Febrero
+439918,Quimpac SA       ,Suministros para produccion,50151.95 ,14/02/2019,Febrero
+439918,Quimpac SA       ,Suministros para produccion,70692.53 ,14/02/2019,Febrero
+440302,Repsol Comercial SAC      ,Servicios Publicos,379234.17 ,14/02/2019,Febrero
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,2400.00 ,14/02/2019,Febrero
+442235,PERURAIL        ,Transportadora ,19698.96 ,14/02/2019,Febrero
+455787,RIMAC EPS       ,People,2286428.96 ,14/02/2019,Febrero
+455787,RIMAC EPS       ,People,958022.86 ,14/02/2019,Febrero
+482293,Nouchi Zea       ,Alquiler,9500.00 ,14/02/2019,Febrero
+482744,RELSA        ,Alquiler,62978.62 ,14/02/2019,Febrero
+482744,RELSA        ,Alquiler,12166.38 ,14/02/2019,Febrero
+T13868,COESTI S.A.       ,Servicios Publicos,51091.64 ,14/02/2019,Febrero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,18.10 ,19/02/2019,Febrero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,18.10 ,19/02/2019,Febrero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3311.00 ,19/02/2019,Febrero
+441275,SEDAM HUANCAYO S.A.      ,Servicios Publicos,702.10 ,19/02/2019,Febrero
+441333,ELECTROCENTRO        ,Servicios Publicos,11172.40 ,19/02/2019,Febrero
+441333,ELECTROCENTRO        ,Servicios Publicos,11172.40 ,19/02/2019,Febrero
+441445,eps Seda Cusco      ,Servicios Publicos,430895.90 ,19/02/2019,Febrero
+441445,eps Seda Cusco      ,Servicios Publicos,430895.90 ,19/02/2019,Febrero
+445399,ENT.PREST.SERVICIOS DE SANEAMIENTO      ,Servicios Publicos,577.50 ,19/02/2019,Febrero
+446450,GAS NATURAL DE LIMA Y CALLAO S.A.,Servicios Publicos,1206239.20 ,19/02/2019,Febrero
+448092,EMAPA CANETE SA      ,Servicios Publicos,582.80 ,19/02/2019,Febrero
+460378,EMAPA HUANCAVELICA S.A.C.,Servicios Publicos,180.00 ,19/02/2019,Febrero
+460378,EMAPA HUANCAVELICA S.A.C.,Servicios Publicos,180.00 ,19/02/2019,Febrero
+T13868,COESTI S.A.       ,Servicios Publicos,91541.49 ,19/02/2019,Febrero
+T13868,COESTI S.A.       ,Servicios Publicos,91541.49 ,19/02/2019,Febrero
+439189,SEDAPAL        ,Servicios Publicos,22874.70 ,21/02/2019,Febrero
+439189,SEDAPAL        ,Servicios Publicos,71309.50 ,21/02/2019,Febrero
+439918,Quimpac SA       ,Suministros para produccion,56643.54 ,21/02/2019,Febrero
+439918,Quimpac SA       ,Suministros para produccion,286790.41 ,21/02/2019,Febrero
+440837,RIMAC SEGUROS Y REASEGUROS  - VALIDARLO,Seguros,364.62 ,21/02/2019,Febrero
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,1178.30 ,21/02/2019,Febrero
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,14849.90 ,21/02/2019,Febrero
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,975.70 ,21/02/2019,Febrero
+441724,Poma de Romero      ,Alquiler,5335.00 ,21/02/2019,Febrero
+442538,ELECTRO PUNO S.A.A.      ,Servicios Publicos,5754.10 ,21/02/2019,Febrero
+455787,RIMAC EPS       ,People,10465.48 ,21/02/2019,Febrero
+458643,Tupay Quispe Alejandra      ,Alquiler,6000.00 ,21/02/2019,Febrero
+481455,ONCOSALUD SAC,People,8610.97 ,21/02/2019,Febrero
+464191,AUSA ADUANAS S.A.,Comex,86268.00 ,22/02/2019,Febrero
+439921,LUZ DEL SUR      ,Servicios Publicos,4387.70 ,26/02/2019,Febrero
+440954,Sedapar        ,Servicios Publicos,117.80 ,26/02/2019,Febrero
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,6.40 ,26/02/2019,Febrero
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,58612.46 ,26/02/2019,Febrero
+441096,MUNICIPALIDAD PROVINCIAL DE MAYNAS     ,Impuestos,551.02 ,26/02/2019,Febrero
+441096,MUNICIPALIDAD PROVINCIAL DE MAYNAS     ,Impuestos,959.79 ,26/02/2019,Febrero
+441127,ELECTRO DUNAS       ,Servicios Publicos,3500.00 ,26/02/2019,Febrero
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,2364.25 ,26/02/2019,Febrero
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,3202.90 ,26/02/2019,Febrero
+441357,MUNICIPALIDAD DISTRITAL DEL RIMAC     ,Impuestos,134186.16 ,26/02/2019,Febrero
+441357,MUNICIPALIDAD DISTRITAL DEL RIMAC     ,Impuestos,677218.30 ,26/02/2019,Febrero
+441391,HIDRANDINA        ,Servicios Publicos,4228.00 ,26/02/2019,Febrero
+441444,SEDACHIMBOTE S.A.       ,Servicios Publicos,1786.40 ,26/02/2019,Febrero
+441445,eps Seda Cusco      ,Servicios Publicos,1519.80 ,26/02/2019,Febrero
+441500,MUNICIPALIDAD PROVINCIAL DE TACNA     ,Impuestos,4981.48 ,26/02/2019,Febrero
+441500,MUNICIPALIDAD PROVINCIAL DE TACNA     ,Impuestos,9279.60 ,26/02/2019,Febrero
+441530,MUNICIPALIDAD DISTRITAL DE WANCHAQ     ,Impuestos,1680.00 ,26/02/2019,Febrero
+441530,MUNICIPALIDAD DISTRITAL DE WANCHAQ     ,Impuestos,2938.00 ,26/02/2019,Febrero
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,184206.72 ,26/02/2019,Febrero
+442584,MUNICIPALIDAD DISTRITAL DE SACHACA     ,Impuestos,2104.41 ,26/02/2019,Febrero
+442584,MUNICIPALIDAD DISTRITAL DE SACHACA     ,Impuestos,174508.72 ,26/02/2019,Febrero
+445227,EMPRESA MUNICIPAL AGUA POTABLE Y AL   ,Servicios Publicos,266.90 ,26/02/2019,Febrero
+445638,MUNICIPALIDAD DISTRITAL DE ATE     ,Impuestos,224285.16 ,26/02/2019,Febrero
+445638,MUNICIPALIDAD DISTRITAL DE ATE     ,Impuestos,681900.50 ,26/02/2019,Febrero
+446666,MUNICIPALIDAD PROVINCIAL DE CAMANA     ,Impuestos,477.00 ,26/02/2019,Febrero
+446666,MUNICIPALIDAD PROVINCIAL DE CAMANA     ,Impuestos,4952.96 ,26/02/2019,Febrero
+449495,MUNICIPALIDAD PROVINCIAL DE NASCA     ,Impuestos,8411.52 ,26/02/2019,Febrero
+449495,MUNICIPALIDAD PROVINCIAL DE NASCA     ,Impuestos,11574.37 ,26/02/2019,Febrero
+458174,MUNICIPALIDAD DISTRITAL DE POCOLLAY     ,Impuestos,784.37 ,26/02/2019,Febrero
+458174,MUNICIPALIDAD DISTRITAL DE POCOLLAY     ,Impuestos,14252.42 ,26/02/2019,Febrero
+467013,NEOGAS PERU SOCIEDAD ANONIMA     ,Servicios Publicos,273774.94 ,26/02/2019,Febrero
+481464,MUNICIPALIDAD DISTRITAL DE SAUSA     ,Impuestos,1841.08 ,26/02/2019,Febrero
+T13888,MUNICIPALIDAD DISTRITAL DE PUNCHANA     ,Impuestos,434.16 ,26/02/2019,Febrero
+T13888,MUNICIPALIDAD DISTRITAL DE PUNCHANA     ,Impuestos,1243.60 ,26/02/2019,Febrero
+441361,MUNICIPALIDAD PROVINCIAL DEL CALLAO     ,Impuestos,55361.84 ,27/02/2019,Febrero
+441361,MUNICIPALIDAD PROVINCIAL DEL CALLAO     ,Impuestos,61875.78 ,27/02/2019,Febrero
+439141,RANSA COMERCIAL S.A.      ,Operador Logistico,29030.96 ,28/02/2019,Febrero
+439918,Quimpac SA       ,Suministros para produccion,147587.50 ,28/02/2019,Febrero
+441353,Superintendencia del Mercado de Valores    ,Valores ,42532.46 ,28/02/2019,Febrero
+441391,HIDRANDINA        ,Servicios Publicos,5006.00 ,28/02/2019,Febrero
+481455,ONCOSALUD SAC,People,185612.89 ,28/02/2019,Febrero
+441491,MUNICIPALIDAD PROVINCIAL DE TALARA     ,Impuestos,11999.60 ,1/03/2019,Marzo
+441491,MUNICIPALIDAD PROVINCIAL DE TALARA     ,Impuestos,15789.40 ,1/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,93536.50 ,5/03/2019,Marzo
+440954,Sedapar        ,Servicios Publicos,175440.10 ,5/03/2019,Marzo
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,2656.50 ,5/03/2019,Marzo
+462721,E.P.S. ILO S.A.      ,Servicios Publicos,143.30 ,5/03/2019,Marzo
+484338,KALLPA GENERACION S.A.,Servicios Publicos,2776744.46 ,5/03/2019,Marzo
+441621,sind obreros cerveceros,People,63460.00 ,6/03/2019,Marzo
+483421,Cooperativa Finantel       ,People,129741.65 ,6/03/2019,Marzo
+902496,cooperativa de servicios multiples,People,144258.60 ,6/03/2019,Marzo
+903090,SINTRAEBACKUS,People,9090.00 ,6/03/2019,Marzo
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,6180.00 ,7/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,5223.08 ,7/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,49816.74 ,7/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,660000.00 ,7/03/2019,Marzo
+903090,SINTRAEBACKUS,People,5000.00 ,7/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,49880.02 ,12/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,34745.92 ,12/03/2019,Marzo
+440925,BOLSA DE VALORES DE LIMA S.A.,Gobierno,56083.16 ,12/03/2019,Marzo
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,1398.33 ,12/03/2019,Marzo
+440954,Sedapar        ,Servicios Publicos,7725.70 ,12/03/2019,Marzo
+441127,ELECTRO DUNAS       ,Servicios Publicos,1962.50 ,12/03/2019,Marzo
+441223,ELECTRO SUR ESTE S.A.A.     ,Servicios Publicos,66.40 ,12/03/2019,Marzo
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,1696.60 ,12/03/2019,Marzo
+441445,eps Seda Cusco      ,Servicios Publicos,397513.80 ,12/03/2019,Marzo
+441549,EMP SERV MUNI AGUA P ALC CHINCHA S ,Servicios Publicos,8.90 ,12/03/2019,Marzo
+445715,DIRECTV PERU SRL,Servicios Publicos,1418.00 ,12/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,1047.74 ,12/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,2079.92 ,12/03/2019,Marzo
+467013,NEOGAS PERU SOCIEDAD ANONIMA     ,Servicios Publicos,228785.22 ,12/03/2019,Marzo
+482293,Nouchi Zea       ,Alquiler,9500.00 ,12/03/2019,Marzo
+484338,KALLPA GENERACION S.A.,Servicios Publicos,203331.66 ,12/03/2019,Marzo
+T13868,COESTI S.A.       ,Servicios Publicos,78835.38 ,12/03/2019,Marzo
+439141,RANSA COMERCIAL S.A.      ,Operador Logistico,131881.11 ,14/03/2019,Marzo
+439465,QUIMTIA SA       ,Suministros para produccion,3280.03 ,14/03/2019,Marzo
+439918,Quimpac SA       ,Suministros para produccion,38693.50 ,14/03/2019,Marzo
+439918,Quimpac SA       ,Suministros para produccion,432455.18 ,14/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,74849.50 ,14/03/2019,Marzo
+440837,RIMAC SEGUROS Y REASEGUROS  - VALIDARLO,Seguros,7784.64 ,14/03/2019,Marzo
+441391,HIDRANDINA        ,Servicios Publicos,16845.40 ,14/03/2019,Marzo
+441500,MUNICIPALIDAD PROVINCIAL DE TACNA     ,Impuestos,1244.01 ,14/03/2019,Marzo
+441556,MUNICIPALIDAD DISTRITAL DE PIMENTEL     ,Impuestos,43314.97 ,14/03/2019,Marzo
+441556,MUNICIPALIDAD DISTRITAL DE PIMENTEL     ,Impuestos,4707.84 ,14/03/2019,Marzo
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,81600.00 ,14/03/2019,Marzo
+441617,MUNICIPALIDAD PROVINCIAL DEL CUSCO     ,Impuestos,70358.64 ,14/03/2019,Marzo
+441655,EMAPA-HUARAL S.A.,Servicios Publicos,290.30 ,14/03/2019,Marzo
+455787,RIMAC EPS       ,People,1347674.97 ,14/03/2019,Marzo
+482744,RELSA        ,Alquiler,449299.42 ,14/03/2019,Marzo
+T13868,COESTI S.A.       ,Servicios Publicos,45354.78 ,14/03/2019,Marzo
+439921,LUZ DEL SUR      ,Servicios Publicos,45668.30 ,19/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,122603.71 ,19/03/2019,Marzo
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,6682.30 ,19/03/2019,Marzo
+441391,HIDRANDINA        ,Servicios Publicos,12097.30 ,19/03/2019,Marzo
+441391,HIDRANDINA        ,Servicios Publicos,5389.10 ,19/03/2019,Marzo
+462721,E.P.S. ILO S.A.      ,Servicios Publicos,62.70 ,19/03/2019,Marzo
+482744,RELSA        ,Alquiler,7028.58 ,19/03/2019,Marzo
+484338,KALLPA GENERACION S.A.,Servicios Publicos,381.49 ,19/03/2019,Marzo
+T13868,COESTI S.A.       ,Servicios Publicos,14980.06 ,19/03/2019,Marzo
+439918,Quimpac SA       ,Suministros para produccion,6570.24 ,21/03/2019,Marzo
+439918,Quimpac SA       ,Suministros para produccion,72499.39 ,21/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,240131.93 ,21/03/2019,Marzo
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,1575.30 ,21/03/2019,Marzo
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,12458.80 ,21/03/2019,Marzo
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,500.20 ,21/03/2019,Marzo
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,46436.58 ,21/03/2019,Marzo
+441127,ELECTRO DUNAS       ,Servicios Publicos,2826.00 ,21/03/2019,Marzo
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,3153.10 ,21/03/2019,Marzo
+441333,ELECTROCENTRO        ,Servicios Publicos,5180.90 ,21/03/2019,Marzo
+441557,MUNICIPALIDAD DISTRITAL DE LA ESPERANZA    ,Impuestos,78522.45 ,21/03/2019,Marzo
+441724,Poma de Romero      ,Alquiler,5335.00 ,21/03/2019,Marzo
+442439,SERVICIO DE ADMINISTRACION TRIBUTARIA DE TRUJILLO   ,Impuestos,13320.56 ,21/03/2019,Marzo
+442600,MUNICIPALIDAD DISTRITAL DE SAN MATEO    ,Impuestos,16795.48 ,21/03/2019,Marzo
+445227,EMPRESA MUNICIPAL AGUA POTABLE Y AL   ,Servicios Publicos,267.70 ,21/03/2019,Marzo
+445399,ENT.PREST.SERVICIOS DE SANEAMIENTO      ,Servicios Publicos,670.90 ,21/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,660000.00 ,21/03/2019,Marzo
+464191,AUSA ADUANAS S.A.,Comex,12618.67 ,21/03/2019,Marzo
+471574,MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO    ,Impuestos,1324.64 ,21/03/2019,Marzo
+482744,RELSA        ,Alquiler,58392.96 ,21/03/2019,Marzo
+482744,RELSA        ,Alquiler,3332.42 ,21/03/2019,Marzo
+440302,Repsol Comercial SAC      ,Servicios Publicos,74957.75 ,26/03/2019,Marzo
+441070,441070 ELECTRONOROESTE S.A      ,Servicios Publicos,4104.60 ,26/03/2019,Marzo
+441071,ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ,Servicios Publicos,297.40 ,26/03/2019,Marzo
+441240,EMP.REG.SERV.PUB.ELECT.ELECTROSUR S       ,Servicios Publicos,1698.50 ,26/03/2019,Marzo
+441275,SEDAM HUANCAYO S.A.      ,Servicios Publicos,727.90 ,26/03/2019,Marzo
+441275,SEDAM HUANCAYO S.A.      ,Servicios Publicos,21.06 ,26/03/2019,Marzo
+441333,ELECTROCENTRO        ,Servicios Publicos,5411.90 ,26/03/2019,Marzo
+441384,SEDALIB S.A.       ,Servicios Publicos,3620.10 ,26/03/2019,Marzo
+441444,SEDACHIMBOTE S.A.       ,Servicios Publicos,598.60 ,26/03/2019,Marzo
+T13868,COESTI S.A.       ,Servicios Publicos,3460.33 ,26/03/2019,Marzo
+440948,SOCIEDAD ELECTRICA DEL SUR OESTE S   ,Servicios Publicos,437.90 ,28/03/2019,Marzo
+440954,Sedapar        ,Servicios Publicos,166.10 ,28/03/2019,Marzo
+441078,EMP REG DE SERV PUB DE ELECT DL NOR,Servicios Publicos,14260.00 ,28/03/2019,Marzo
+441333,ELECTROCENTRO        ,Servicios Publicos,460.10 ,28/03/2019,Marzo
+441353,Superintendencia del Mercado de Valores    ,Valores ,42532.46 ,28/03/2019,Marzo
+441542,MUNICIPALIDAD DISTRITAL DE MOTUPE     ,Impuestos,156803.55 ,28/03/2019,Marzo
+442538,ELECTRO PUNO S.A.A.      ,Servicios Publicos,6461.90 ,28/03/2019,Marzo
+458643,Tupay Quispe Alejandra      ,Alquiler,6000.00 ,28/03/2019,Marzo
+460378,EMAPA HUANCAVELICA S.A.C.,Servicios Publicos,151.60 ,28/03/2019,Marzo
+482293,Nouchi Zea       ,Alquiler,9500.00 ,28/03/2019,Marzo
+482744,RELSA        ,Alquiler,3696.50 ,28/03/2019,Marzo
