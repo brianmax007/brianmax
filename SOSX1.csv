@@ -1,4 +1,4 @@
-Codigo;Nombre del proveedor;Tipo de servicio;Importe en soles;Mes
+Codigo;Nombre_proveedor;Tipo_servicio;Importe_mn;Mes
 441071;ENTIDAD PREST.DE SS.DE SANEAM. GRAU    ;Servicios Publicos;294;Enero
 439122;LIMA GAS S.A.      ;Servicios Publicos;1071;Enero
 440302;Repsol Comercial SAC      ;Servicios Publicos;75829;Enero
